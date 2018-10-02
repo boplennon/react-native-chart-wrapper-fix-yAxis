@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/boblennon/.android/build-cache/3c97a9d40495f092663f3d1bb640412d2ec7eb45/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/boblennon/.android/build-cache/f38a0125c09bc907044536d74d3cf9c08c3bd579/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/boblennon/Project/StockbookApp/node_modules/react-native-charts-wrapper/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/boblennon/.android/build-cache/3c97a9d40495f092663f3d1bb640412d2ec7eb45/output/res/anim/catalyst_push_up_in.xml"
+    }
+]
